@@ -1,2 +1,2 @@
 example
-to learn  git pull
+to learn  git pull.
